@@ -1,0 +1,9 @@
+*.mat
+__pycache__
+*.csv
+*.DS_Store
+/src/weights
+/src/wandb
+/data
+*.png
+pre-trained/
